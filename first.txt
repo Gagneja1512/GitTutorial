@@ -1,4 +1,9 @@
 This is version 1  of my Project
 
 Now want to go to commit 2
+
+
+Now cheching git diff
+
+Skiping staging area
   
